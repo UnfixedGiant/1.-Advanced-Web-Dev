@@ -6,4 +6,4 @@ const Title = ({ title }: { title: string }) => {
 
 }
 
-export default Title
+export default Title 
